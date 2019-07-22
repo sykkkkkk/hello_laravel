@@ -37,7 +37,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by github</div>
+                <div class="title">Hello Laravel! - by github__1</div>
             </div>
         </div>
     </body>
